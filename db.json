@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "smartphone",
+      "price": 70,
+      "quantity": 5,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "Iphone 13",
+      "price": "950",
+      "quantity": "1",
+      "selected": true,
+      "available": true,
+      "id": 4
+    },
+    {
+      "name": "Samsung s8",
+      "price": "380",
+      "quantity": "1",
+      "selected": true,
+      "available": true,
+      "id": 5
+    }
+  ]
+}
